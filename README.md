@@ -1,4 +1,4 @@
-# PHP SMPP LIGHT is a fork from phplwsmpp with necessary functions
+# This is composer-installable fork from PHP SMPP LIGHT
 
 Lightweight PHP implementation of the SMPP 3.3 and SMPP 3.4 API. Includes the SMPP receiver and SMPP transmitter implementations.
 This use code from paladin and online city
